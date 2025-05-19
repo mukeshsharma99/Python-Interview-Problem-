@@ -1,12 +1,25 @@
 # Write a pythnon program to find the gien string are Anagram Or Not
 
-nbshdgidbvudfhm next
+def check(s1, s2):
+    if sorted(s1) == sorted(s2):
+        print('The strings are anagrams.')
+    else:
+        print('The strings are not anagrams.')
 
-dsiugu8wh vugyebuvh uighei
+s1 = input('Enter string 1: ')
+s2 = input('Enter string 2: ')
+check(s1, s2)
 
-vflegjh48j biojhj9euhoe
 
-Vsf jgm4wjbkf euh0ej ntu
-codshu8h buehy
-kdguh ioberjh9eij bigeayuiodtfyuijokpl;edrtfyghujikol;''
-vskvjgeahjioj 
+
+def check(s1, s2):
+
+    if  (sorted (s1) == sorted(s2)):
+        print('The string are anagrams .')
+
+    else:
+        print('The string  are not angrams.')
+
+s1 = input('Enter strings1:')
+s2 = input('Enter string2: ')
+print(s1, s2)
