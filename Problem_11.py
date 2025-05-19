@@ -12,14 +12,3 @@ check(s1, s2)
 
 
 
-def check(s1, s2):
-
-    if  (sorted (s1) == sorted(s2)):
-        print('The string are anagrams .')
-
-    else:
-        print('The string  are not angrams.')
-
-s1 = input('Enter strings1:')
-s2 = input('Enter string2: ')
-print(s1, s2)
