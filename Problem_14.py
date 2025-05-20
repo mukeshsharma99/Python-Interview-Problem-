@@ -10,4 +10,8 @@ def maximum(a,b,c):
 
     return largest
 
-hdf78ikjh,mnbfdt9yrdojln;, 
+a =  int(input('Enter a number: '))
+b =  int(input('Enter a number: '))
+c  = int(input('Enter a number'))
+
+print(maximum(a,b,c))
