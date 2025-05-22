@@ -9,4 +9,10 @@ def fac_recursive(n):
     return n* fac_recursive (n -1)
 
 num = int(input('Enter a number: '))
-print(fac_recursive(num))  ;kfiekfgmueokr8u
+print(fac_recursive(num))  ;kfiekfgmueokr8u 
+
+csd vbhu8hok
+
+vldskvij bkm ju\
+
+vdlvkkmki
