@@ -8,4 +8,16 @@ count = 0
 if nterms <=0:
     print('please enter the postive number')
 
-elif nterms == 
+elif nterms == 1:
+    print('fabonacci sequence upto ', nterms)
+    print(n1)
+
+else:
+    print('fabnacci sequence')
+    while count< nterms:
+        print(n1)
+        nth = n1 +n2
+        n1 = n2
+        n2 = nth
+        count +=1
+        
