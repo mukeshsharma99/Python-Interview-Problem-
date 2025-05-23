@@ -11,4 +11,5 @@ def gcd(a,b):
         return a
     if (a>b):
         return gcd(a-b,b)
+a = 98
     
