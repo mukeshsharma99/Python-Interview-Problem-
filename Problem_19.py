@@ -7,5 +7,5 @@ def gcd(a,b):
         return b
     if b == 0:
         return a
-    if c == 0:
-        
+    if (a>b):
+        return a
