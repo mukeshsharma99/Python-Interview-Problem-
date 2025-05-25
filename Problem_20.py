@@ -1,4 +1,4 @@
-#
+# Write a python program to fidn the pettern 
 
 def myfunc(n):
     for i in range(0, n):
