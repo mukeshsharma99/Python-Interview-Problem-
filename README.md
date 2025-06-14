@@ -27,7 +27,7 @@ This repository contains simple Python exercises and solutions to help beginners
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/python-basic-problems.git
+git clone https://github.com/your-username/python-basic-problems.git   
 
 # Go to the project folder
 cd python-basic-problems
