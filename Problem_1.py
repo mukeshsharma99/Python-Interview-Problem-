@@ -1,4 +1,4 @@
-# Write a pytyhon program to find the given number odd or even 
+# Write a pytyhon program to find the given number odd or even............
 
 num = int(input('Enter a number: '))
 
