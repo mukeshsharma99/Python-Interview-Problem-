@@ -1,7 +1,7 @@
 # Write a program to find a minimum of two numbers.
 
 
-def minimum(a,b):
+def minimum(a,b):   
     if a<=b:
         return a
     else:
