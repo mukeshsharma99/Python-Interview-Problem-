@@ -4,7 +4,7 @@
 This repository contains simple Python exercises and solutions to help beginners practice and improve their Python skills. 
    
 ## ✅ Key Points
-- 📂 **Practice Problems:** Includes basic Python topics like variables, data types, loops, functions, and file handling.
+- 📂 **Practice Problems:** Includes basic Python topics like variables, data types, loops, functions, and file handling.  
 - 🐍 **Beginner Friendly:** Clear, easy-to-understand code with comments.
 - 💡 **Self-Learning:** Great for students, beginners, and interview preparation.
 - 🗂️ **Organized:** Problems are grouped by topic.
