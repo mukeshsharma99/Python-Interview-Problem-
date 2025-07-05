@@ -9,7 +9,7 @@ This repository contains simple Python exercises and solutions to help beginners
 - 💡 **Self-Learning:** Great for students, beginners, and interview preparation.
 - 🗂️ **Organized:** Problems are grouped by topic.
 - 🧩 **Modular Code:** Each solution is clean and reusable. 
-- 📝 **How to Use:**
+- 📝 **How to Use:** 
   1. Clone this repository  
   2. Run any `.py` file to see the solution  
   3. Modify and practice on your own
