@@ -1,4 +1,4 @@
-# 📌 Python Basic Problems 
+# 📌 Python Basic Problems   
 
 ## 📖 Overview
 This repository contains simple Python exercises and solutions to help beginners practice and improve their Python skills. 
