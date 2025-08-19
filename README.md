@@ -7,7 +7,7 @@ This repository contains simple Python exercises and solutions to help beginners
 - 📂 **Practice Problems:** Includes basic Python topics like variables, data types, loops, functions, and file handling.  
 - 🐍 **Beginner Friendly:** Clear, easy-to-understand code with comments. 
 - 💡 **Self-Learning:** Great for students, beginners, and interview preparation.  
-- 🗂️ **Organized:** Problems are grouped by topic.   
+- 🗂️ **Organized:** Problems are grouped by topic.    
 - 🧩 **Modular Code:** Each solution is clean and reusable. 
 - 📝 **How to Use:** 
   1. Clone this repository  
