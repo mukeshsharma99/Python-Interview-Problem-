@@ -13,7 +13,7 @@ This repository contains simple Python exercises and solutions to help beginners
   1. Clone this repository  
   2. Run any `.py` file to see the solution  
   3. Modify and practice on your own
-
+ 
 ## 📎 Topics Covered
 - Variables and Data Types
 - Conditional Statements
